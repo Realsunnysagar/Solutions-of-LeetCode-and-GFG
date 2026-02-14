@@ -1,17 +1,26 @@
 /*
-Problem Name : <Problem Name>
-Platform     : Geeks-for-Geeks (GFG)
-Topic        : <Array / Stack / DP etc>
-Difficulty   : Easy / Medium / Hard
-Problem Link : <Paste LeetCode link>
+Problem Name : Two Sum
+Platform     : LeetCode
+Topic        : Arrays
+Difficulty   : Easy
+Link         : https://leetcode.com/problems/two-sum/
 
-Time Complexity  : 
-Space Complexity :
+Time Complexity : O(n)
+Space Complexity: O(n)
 */
 
-#include <bits/stdc++.h>
-using namespace std;
-int main() {
- 
-return 0; 
-}
+class Solution {
+public:
+    vector<int> twoSum(vector<int>& nums, int target) {
+        unordered_map<int,int> mp;
+
+        for(int i = 0; i < nums.size(); i++){
+            int need = target - nums[i];
+            if(mp.count(need)){
+                return {mp[need], i};
+            }
+            mp[nums[i]] = i;
+        }
+        return {};
+    }
+};
