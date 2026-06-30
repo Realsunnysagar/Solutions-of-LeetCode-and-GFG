@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Realsunnysagar/Solutions-of-LeetCode-and-GFG/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/Realsunnysagar/Solutions-of-LeetCode-and-GFG/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/Realsunnysagar/Solutions-of-LeetCode-and-GFG/tree/master/0231-power-of-two) |
+| [0326-power-of-three](https://github.com/Realsunnysagar/Solutions-of-LeetCode-and-GFG/tree/master/0326-power-of-three) |
 ## Matrix
 |  |
 | ------- |
@@ -62,4 +63,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0050-powx-n](https://github.com/Realsunnysagar/Solutions-of-LeetCode-and-GFG/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/Realsunnysagar/Solutions-of-LeetCode-and-GFG/tree/master/0231-power-of-two) |
+| [0326-power-of-three](https://github.com/Realsunnysagar/Solutions-of-LeetCode-and-GFG/tree/master/0326-power-of-three) |
 <!---LeetCode Topics End-->
