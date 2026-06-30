@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Realsunnysagar/Solutions-of-LeetCode-and-GFG/tree/master/0022-generate-parentheses) |
 | [0387-first-unique-character-in-a-string](https://github.com/Realsunnysagar/Solutions-of-LeetCode-and-GFG/tree/master/0387-first-unique-character-in-a-string) |
 ## Queue
 |  |
@@ -47,5 +48,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Realsunnysagar/Solutions-of-LeetCode-and-GFG/tree/master/0022-generate-parentheses) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/Realsunnysagar/Solutions-of-LeetCode-and-GFG/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/Realsunnysagar/Solutions-of-LeetCode-and-GFG/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
