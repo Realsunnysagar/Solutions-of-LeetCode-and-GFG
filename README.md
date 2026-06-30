@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/Realsunnysagar/Solutions-of-LeetCode-and-GFG/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/Realsunnysagar/Solutions-of-LeetCode-and-GFG/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/Realsunnysagar/Solutions-of-LeetCode-and-GFG/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/Realsunnysagar/Solutions-of-LeetCode-and-GFG/tree/master/0342-power-of-four) |
 ## Matrix
 |  |
 | ------- |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0136-single-number](https://github.com/Realsunnysagar/Solutions-of-LeetCode-and-GFG/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/Realsunnysagar/Solutions-of-LeetCode-and-GFG/tree/master/0231-power-of-two) |
+| [0342-power-of-four](https://github.com/Realsunnysagar/Solutions-of-LeetCode-and-GFG/tree/master/0342-power-of-four) |
 ## Hash Table
 |  |
 | ------- |
@@ -64,4 +66,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/Realsunnysagar/Solutions-of-LeetCode-and-GFG/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/Realsunnysagar/Solutions-of-LeetCode-and-GFG/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/Realsunnysagar/Solutions-of-LeetCode-and-GFG/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/Realsunnysagar/Solutions-of-LeetCode-and-GFG/tree/master/0342-power-of-four) |
 <!---LeetCode Topics End-->
