@@ -13,6 +13,7 @@
 | [0219-contains-duplicate-ii](https://github.com/Realsunnysagar/Solutions-of-LeetCode-and-GFG/tree/master/0219-contains-duplicate-ii) |
 | [0496-next-greater-element-i](https://github.com/Realsunnysagar/Solutions-of-LeetCode-and-GFG/tree/master/0496-next-greater-element-i) |
 | [0994-rotting-oranges](https://github.com/Realsunnysagar/Solutions-of-LeetCode-and-GFG/tree/master/0994-rotting-oranges) |
+| [1480-running-sum-of-1d-array](https://github.com/Realsunnysagar/Solutions-of-LeetCode-and-GFG/tree/master/1480-running-sum-of-1d-array) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/Realsunnysagar/Solutions-of-LeetCode-and-GFG/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [1920-build-array-from-permutation](https://github.com/Realsunnysagar/Solutions-of-LeetCode-and-GFG/tree/master/1920-build-array-from-permutation) |
 | [2104-sum-of-subarray-ranges](https://github.com/Realsunnysagar/Solutions-of-LeetCode-and-GFG/tree/master/2104-sum-of-subarray-ranges) |
@@ -119,4 +120,8 @@
 |  |
 | ------- |
 | [1920-build-array-from-permutation](https://github.com/Realsunnysagar/Solutions-of-LeetCode-and-GFG/tree/master/1920-build-array-from-permutation) |
+## Prefix Sum
+|  |
+| ------- |
+| [1480-running-sum-of-1d-array](https://github.com/Realsunnysagar/Solutions-of-LeetCode-and-GFG/tree/master/1480-running-sum-of-1d-array) |
 <!---LeetCode Topics End-->
