@@ -11,6 +11,7 @@
 | [0150-evaluate-reverse-polish-notation](https://github.com/Realsunnysagar/Solutions-of-LeetCode-and-GFG/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Realsunnysagar/Solutions-of-LeetCode-and-GFG/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0219-contains-duplicate-ii](https://github.com/Realsunnysagar/Solutions-of-LeetCode-and-GFG/tree/master/0219-contains-duplicate-ii) |
+| [0496-next-greater-element-i](https://github.com/Realsunnysagar/Solutions-of-LeetCode-and-GFG/tree/master/0496-next-greater-element-i) |
 | [0994-rotting-oranges](https://github.com/Realsunnysagar/Solutions-of-LeetCode-and-GFG/tree/master/0994-rotting-oranges) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/Realsunnysagar/Solutions-of-LeetCode-and-GFG/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [2104-sum-of-subarray-ranges](https://github.com/Realsunnysagar/Solutions-of-LeetCode-and-GFG/tree/master/2104-sum-of-subarray-ranges) |
@@ -21,10 +22,12 @@
 | [0155-min-stack](https://github.com/Realsunnysagar/Solutions-of-LeetCode-and-GFG/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/Realsunnysagar/Solutions-of-LeetCode-and-GFG/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Realsunnysagar/Solutions-of-LeetCode-and-GFG/tree/master/0232-implement-queue-using-stacks) |
+| [0496-next-greater-element-i](https://github.com/Realsunnysagar/Solutions-of-LeetCode-and-GFG/tree/master/0496-next-greater-element-i) |
 | [2104-sum-of-subarray-ranges](https://github.com/Realsunnysagar/Solutions-of-LeetCode-and-GFG/tree/master/2104-sum-of-subarray-ranges) |
 ## Monotonic Stack
 |  |
 | ------- |
+| [0496-next-greater-element-i](https://github.com/Realsunnysagar/Solutions-of-LeetCode-and-GFG/tree/master/0496-next-greater-element-i) |
 | [2104-sum-of-subarray-ranges](https://github.com/Realsunnysagar/Solutions-of-LeetCode-and-GFG/tree/master/2104-sum-of-subarray-ranges) |
 ## Math
 |  |
@@ -52,6 +55,7 @@
 | [0001-two-sum](https://github.com/Realsunnysagar/Solutions-of-LeetCode-and-GFG/tree/master/0001-two-sum) |
 | [0219-contains-duplicate-ii](https://github.com/Realsunnysagar/Solutions-of-LeetCode-and-GFG/tree/master/0219-contains-duplicate-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/Realsunnysagar/Solutions-of-LeetCode-and-GFG/tree/master/0387-first-unique-character-in-a-string) |
+| [0496-next-greater-element-i](https://github.com/Realsunnysagar/Solutions-of-LeetCode-and-GFG/tree/master/0496-next-greater-element-i) |
 ## String
 |  |
 | ------- |
