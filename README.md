@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/Realsunnysagar/Solutions-of-LeetCode-and-GFG/tree/master/0011-container-with-most-water) |
 | [0048-rotate-image](https://github.com/Realsunnysagar/Solutions-of-LeetCode-and-GFG/tree/master/0048-rotate-image) |
 | [0136-single-number](https://github.com/Realsunnysagar/Solutions-of-LeetCode-and-GFG/tree/master/0136-single-number) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Realsunnysagar/Solutions-of-LeetCode-and-GFG/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Realsunnysagar/Solutions-of-LeetCode-and-GFG/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0219-contains-duplicate-ii](https://github.com/Realsunnysagar/Solutions-of-LeetCode-and-GFG/tree/master/0219-contains-duplicate-ii) |
 | [0994-rotting-oranges](https://github.com/Realsunnysagar/Solutions-of-LeetCode-and-GFG/tree/master/0994-rotting-oranges) |
@@ -16,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Realsunnysagar/Solutions-of-LeetCode-and-GFG/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/Realsunnysagar/Solutions-of-LeetCode-and-GFG/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/Realsunnysagar/Solutions-of-LeetCode-and-GFG/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Realsunnysagar/Solutions-of-LeetCode-and-GFG/tree/master/0232-implement-queue-using-stacks) |
@@ -29,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/Realsunnysagar/Solutions-of-LeetCode-and-GFG/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/Realsunnysagar/Solutions-of-LeetCode-and-GFG/tree/master/0050-powx-n) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Realsunnysagar/Solutions-of-LeetCode-and-GFG/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0231-power-of-two](https://github.com/Realsunnysagar/Solutions-of-LeetCode-and-GFG/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/Realsunnysagar/Solutions-of-LeetCode-and-GFG/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Realsunnysagar/Solutions-of-LeetCode-and-GFG/tree/master/0342-power-of-four) |
