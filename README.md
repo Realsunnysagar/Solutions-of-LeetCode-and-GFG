@@ -15,6 +15,7 @@
 | [0994-rotting-oranges](https://github.com/Realsunnysagar/Solutions-of-LeetCode-and-GFG/tree/master/0994-rotting-oranges) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Realsunnysagar/Solutions-of-LeetCode-and-GFG/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1470-shuffle-the-array](https://github.com/Realsunnysagar/Solutions-of-LeetCode-and-GFG/tree/master/1470-shuffle-the-array) |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Realsunnysagar/Solutions-of-LeetCode-and-GFG/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1480-running-sum-of-1d-array](https://github.com/Realsunnysagar/Solutions-of-LeetCode-and-GFG/tree/master/1480-running-sum-of-1d-array) |
 | [1512-number-of-good-pairs](https://github.com/Realsunnysagar/Solutions-of-LeetCode-and-GFG/tree/master/1512-number-of-good-pairs) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/Realsunnysagar/Solutions-of-LeetCode-and-GFG/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
@@ -29,11 +30,13 @@
 | [0225-implement-stack-using-queues](https://github.com/Realsunnysagar/Solutions-of-LeetCode-and-GFG/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Realsunnysagar/Solutions-of-LeetCode-and-GFG/tree/master/0232-implement-queue-using-stacks) |
 | [0496-next-greater-element-i](https://github.com/Realsunnysagar/Solutions-of-LeetCode-and-GFG/tree/master/0496-next-greater-element-i) |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Realsunnysagar/Solutions-of-LeetCode-and-GFG/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [2104-sum-of-subarray-ranges](https://github.com/Realsunnysagar/Solutions-of-LeetCode-and-GFG/tree/master/2104-sum-of-subarray-ranges) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/Realsunnysagar/Solutions-of-LeetCode-and-GFG/tree/master/0496-next-greater-element-i) |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Realsunnysagar/Solutions-of-LeetCode-and-GFG/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [2104-sum-of-subarray-ranges](https://github.com/Realsunnysagar/Solutions-of-LeetCode-and-GFG/tree/master/2104-sum-of-subarray-ranges) |
 ## Math
 |  |
