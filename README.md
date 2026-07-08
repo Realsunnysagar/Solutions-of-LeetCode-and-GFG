@@ -11,6 +11,7 @@
 | [0150-evaluate-reverse-polish-notation](https://github.com/Realsunnysagar/Solutions-of-LeetCode-and-GFG/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Realsunnysagar/Solutions-of-LeetCode-and-GFG/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0219-contains-duplicate-ii](https://github.com/Realsunnysagar/Solutions-of-LeetCode-and-GFG/tree/master/0219-contains-duplicate-ii) |
+| [0268-missing-number](https://github.com/Realsunnysagar/Solutions-of-LeetCode-and-GFG/tree/master/0268-missing-number) |
 | [0496-next-greater-element-i](https://github.com/Realsunnysagar/Solutions-of-LeetCode-and-GFG/tree/master/0496-next-greater-element-i) |
 | [0724-find-pivot-index](https://github.com/Realsunnysagar/Solutions-of-LeetCode-and-GFG/tree/master/0724-find-pivot-index) |
 | [0907-sum-of-subarray-minimums](https://github.com/Realsunnysagar/Solutions-of-LeetCode-and-GFG/tree/master/0907-sum-of-subarray-minimums) |
@@ -50,6 +51,7 @@
 | [0050-powx-n](https://github.com/Realsunnysagar/Solutions-of-LeetCode-and-GFG/tree/master/0050-powx-n) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Realsunnysagar/Solutions-of-LeetCode-and-GFG/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0231-power-of-two](https://github.com/Realsunnysagar/Solutions-of-LeetCode-and-GFG/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/Realsunnysagar/Solutions-of-LeetCode-and-GFG/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/Realsunnysagar/Solutions-of-LeetCode-and-GFG/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Realsunnysagar/Solutions-of-LeetCode-and-GFG/tree/master/0342-power-of-four) |
 | [1512-number-of-good-pairs](https://github.com/Realsunnysagar/Solutions-of-LeetCode-and-GFG/tree/master/1512-number-of-good-pairs) |
@@ -63,12 +65,14 @@
 | ------- |
 | [0136-single-number](https://github.com/Realsunnysagar/Solutions-of-LeetCode-and-GFG/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/Realsunnysagar/Solutions-of-LeetCode-and-GFG/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/Realsunnysagar/Solutions-of-LeetCode-and-GFG/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/Realsunnysagar/Solutions-of-LeetCode-and-GFG/tree/master/0342-power-of-four) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Realsunnysagar/Solutions-of-LeetCode-and-GFG/tree/master/0001-two-sum) |
 | [0219-contains-duplicate-ii](https://github.com/Realsunnysagar/Solutions-of-LeetCode-and-GFG/tree/master/0219-contains-duplicate-ii) |
+| [0268-missing-number](https://github.com/Realsunnysagar/Solutions-of-LeetCode-and-GFG/tree/master/0268-missing-number) |
 | [0387-first-unique-character-in-a-string](https://github.com/Realsunnysagar/Solutions-of-LeetCode-and-GFG/tree/master/0387-first-unique-character-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/Realsunnysagar/Solutions-of-LeetCode-and-GFG/tree/master/0496-next-greater-element-i) |
 | [1512-number-of-good-pairs](https://github.com/Realsunnysagar/Solutions-of-LeetCode-and-GFG/tree/master/1512-number-of-good-pairs) |
@@ -115,6 +119,7 @@
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Realsunnysagar/Solutions-of-LeetCode-and-GFG/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0268-missing-number](https://github.com/Realsunnysagar/Solutions-of-LeetCode-and-GFG/tree/master/0268-missing-number) |
 ## Sliding Window
 |  |
 | ------- |
@@ -146,5 +151,6 @@
 ## Sorting
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/Realsunnysagar/Solutions-of-LeetCode-and-GFG/tree/master/0268-missing-number) |
 | [0977-squares-of-a-sorted-array](https://github.com/Realsunnysagar/Solutions-of-LeetCode-and-GFG/tree/master/0977-squares-of-a-sorted-array) |
 <!---LeetCode Topics End-->
