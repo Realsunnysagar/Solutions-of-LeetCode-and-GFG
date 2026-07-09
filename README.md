@@ -14,6 +14,7 @@
 | [0268-missing-number](https://github.com/Realsunnysagar/Solutions-of-LeetCode-and-GFG/tree/master/0268-missing-number) |
 | [0496-next-greater-element-i](https://github.com/Realsunnysagar/Solutions-of-LeetCode-and-GFG/tree/master/0496-next-greater-element-i) |
 | [0724-find-pivot-index](https://github.com/Realsunnysagar/Solutions-of-LeetCode-and-GFG/tree/master/0724-find-pivot-index) |
+| [0735-asteroid-collision](https://github.com/Realsunnysagar/Solutions-of-LeetCode-and-GFG/tree/master/0735-asteroid-collision) |
 | [0907-sum-of-subarray-minimums](https://github.com/Realsunnysagar/Solutions-of-LeetCode-and-GFG/tree/master/0907-sum-of-subarray-minimums) |
 | [0977-squares-of-a-sorted-array](https://github.com/Realsunnysagar/Solutions-of-LeetCode-and-GFG/tree/master/0977-squares-of-a-sorted-array) |
 | [0994-rotting-oranges](https://github.com/Realsunnysagar/Solutions-of-LeetCode-and-GFG/tree/master/0994-rotting-oranges) |
@@ -34,6 +35,7 @@
 | [0225-implement-stack-using-queues](https://github.com/Realsunnysagar/Solutions-of-LeetCode-and-GFG/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Realsunnysagar/Solutions-of-LeetCode-and-GFG/tree/master/0232-implement-queue-using-stacks) |
 | [0496-next-greater-element-i](https://github.com/Realsunnysagar/Solutions-of-LeetCode-and-GFG/tree/master/0496-next-greater-element-i) |
+| [0735-asteroid-collision](https://github.com/Realsunnysagar/Solutions-of-LeetCode-and-GFG/tree/master/0735-asteroid-collision) |
 | [0907-sum-of-subarray-minimums](https://github.com/Realsunnysagar/Solutions-of-LeetCode-and-GFG/tree/master/0907-sum-of-subarray-minimums) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Realsunnysagar/Solutions-of-LeetCode-and-GFG/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [2104-sum-of-subarray-ranges](https://github.com/Realsunnysagar/Solutions-of-LeetCode-and-GFG/tree/master/2104-sum-of-subarray-ranges) |
@@ -141,6 +143,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0735-asteroid-collision](https://github.com/Realsunnysagar/Solutions-of-LeetCode-and-GFG/tree/master/0735-asteroid-collision) |
 | [1920-build-array-from-permutation](https://github.com/Realsunnysagar/Solutions-of-LeetCode-and-GFG/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/Realsunnysagar/Solutions-of-LeetCode-and-GFG/tree/master/1929-concatenation-of-array) |
 ## Prefix Sum
