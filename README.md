@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/Realsunnysagar/Solutions-of-LeetCode-and-GFG/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/Realsunnysagar/Solutions-of-LeetCode-and-GFG/tree/master/0011-container-with-most-water) |
+| [0027-remove-element](https://github.com/Realsunnysagar/Solutions-of-LeetCode-and-GFG/tree/master/0027-remove-element) |
 | [0048-rotate-image](https://github.com/Realsunnysagar/Solutions-of-LeetCode-and-GFG/tree/master/0048-rotate-image) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Realsunnysagar/Solutions-of-LeetCode-and-GFG/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/Realsunnysagar/Solutions-of-LeetCode-and-GFG/tree/master/0085-maximal-rectangle) |
@@ -130,6 +131,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Realsunnysagar/Solutions-of-LeetCode-and-GFG/tree/master/0011-container-with-most-water) |
+| [0027-remove-element](https://github.com/Realsunnysagar/Solutions-of-LeetCode-and-GFG/tree/master/0027-remove-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Realsunnysagar/Solutions-of-LeetCode-and-GFG/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0977-squares-of-a-sorted-array](https://github.com/Realsunnysagar/Solutions-of-LeetCode-and-GFG/tree/master/0977-squares-of-a-sorted-array) |
 ## Binary Search
