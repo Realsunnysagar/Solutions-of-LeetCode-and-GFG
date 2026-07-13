@@ -34,6 +34,7 @@
 ## Stack
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/Realsunnysagar/Solutions-of-LeetCode-and-GFG/tree/master/0032-longest-valid-parentheses) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Realsunnysagar/Solutions-of-LeetCode-and-GFG/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/Realsunnysagar/Solutions-of-LeetCode-and-GFG/tree/master/0085-maximal-rectangle) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Realsunnysagar/Solutions-of-LeetCode-and-GFG/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -95,6 +96,7 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Realsunnysagar/Solutions-of-LeetCode-and-GFG/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/Realsunnysagar/Solutions-of-LeetCode-and-GFG/tree/master/0032-longest-valid-parentheses) |
 | [0387-first-unique-character-in-a-string](https://github.com/Realsunnysagar/Solutions-of-LeetCode-and-GFG/tree/master/0387-first-unique-character-in-a-string) |
 | [0402-remove-k-digits](https://github.com/Realsunnysagar/Solutions-of-LeetCode-and-GFG/tree/master/0402-remove-k-digits) |
 ## Queue
@@ -113,6 +115,7 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Realsunnysagar/Solutions-of-LeetCode-and-GFG/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/Realsunnysagar/Solutions-of-LeetCode-and-GFG/tree/master/0032-longest-valid-parentheses) |
 | [0085-maximal-rectangle](https://github.com/Realsunnysagar/Solutions-of-LeetCode-and-GFG/tree/master/0085-maximal-rectangle) |
 | [0907-sum-of-subarray-minimums](https://github.com/Realsunnysagar/Solutions-of-LeetCode-and-GFG/tree/master/0907-sum-of-subarray-minimums) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/Realsunnysagar/Solutions-of-LeetCode-and-GFG/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
