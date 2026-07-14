@@ -32,6 +32,7 @@
 | [1920-build-array-from-permutation](https://github.com/Realsunnysagar/Solutions-of-LeetCode-and-GFG/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/Realsunnysagar/Solutions-of-LeetCode-and-GFG/tree/master/1929-concatenation-of-array) |
 | [2104-sum-of-subarray-ranges](https://github.com/Realsunnysagar/Solutions-of-LeetCode-and-GFG/tree/master/2104-sum-of-subarray-ranges) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/Realsunnysagar/Solutions-of-LeetCode-and-GFG/tree/master/2161-partition-array-according-to-given-pivot) |
 ## Stack
 |  |
 | ------- |
@@ -139,6 +140,7 @@
 | [0075-sort-colors](https://github.com/Realsunnysagar/Solutions-of-LeetCode-and-GFG/tree/master/0075-sort-colors) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Realsunnysagar/Solutions-of-LeetCode-and-GFG/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0977-squares-of-a-sorted-array](https://github.com/Realsunnysagar/Solutions-of-LeetCode-and-GFG/tree/master/0977-squares-of-a-sorted-array) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/Realsunnysagar/Solutions-of-LeetCode-and-GFG/tree/master/2161-partition-array-according-to-given-pivot) |
 ## Binary Search
 |  |
 | ------- |
@@ -171,6 +173,7 @@
 | [0735-asteroid-collision](https://github.com/Realsunnysagar/Solutions-of-LeetCode-and-GFG/tree/master/0735-asteroid-collision) |
 | [1920-build-array-from-permutation](https://github.com/Realsunnysagar/Solutions-of-LeetCode-and-GFG/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/Realsunnysagar/Solutions-of-LeetCode-and-GFG/tree/master/1929-concatenation-of-array) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/Realsunnysagar/Solutions-of-LeetCode-and-GFG/tree/master/2161-partition-array-according-to-given-pivot) |
 ## Prefix Sum
 |  |
 | ------- |
