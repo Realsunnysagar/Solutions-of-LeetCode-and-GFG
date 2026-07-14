@@ -20,6 +20,7 @@
 | [0496-next-greater-element-i](https://github.com/Realsunnysagar/Solutions-of-LeetCode-and-GFG/tree/master/0496-next-greater-element-i) |
 | [0724-find-pivot-index](https://github.com/Realsunnysagar/Solutions-of-LeetCode-and-GFG/tree/master/0724-find-pivot-index) |
 | [0735-asteroid-collision](https://github.com/Realsunnysagar/Solutions-of-LeetCode-and-GFG/tree/master/0735-asteroid-collision) |
+| [0905-sort-array-by-parity](https://github.com/Realsunnysagar/Solutions-of-LeetCode-and-GFG/tree/master/0905-sort-array-by-parity) |
 | [0907-sum-of-subarray-minimums](https://github.com/Realsunnysagar/Solutions-of-LeetCode-and-GFG/tree/master/0907-sum-of-subarray-minimums) |
 | [0977-squares-of-a-sorted-array](https://github.com/Realsunnysagar/Solutions-of-LeetCode-and-GFG/tree/master/0977-squares-of-a-sorted-array) |
 | [0994-rotting-oranges](https://github.com/Realsunnysagar/Solutions-of-LeetCode-and-GFG/tree/master/0994-rotting-oranges) |
@@ -139,6 +140,7 @@
 | [0027-remove-element](https://github.com/Realsunnysagar/Solutions-of-LeetCode-and-GFG/tree/master/0027-remove-element) |
 | [0075-sort-colors](https://github.com/Realsunnysagar/Solutions-of-LeetCode-and-GFG/tree/master/0075-sort-colors) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Realsunnysagar/Solutions-of-LeetCode-and-GFG/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0905-sort-array-by-parity](https://github.com/Realsunnysagar/Solutions-of-LeetCode-and-GFG/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/Realsunnysagar/Solutions-of-LeetCode-and-GFG/tree/master/0977-squares-of-a-sorted-array) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Realsunnysagar/Solutions-of-LeetCode-and-GFG/tree/master/2161-partition-array-according-to-given-pivot) |
 ## Binary Search
@@ -184,6 +186,7 @@
 | ------- |
 | [0075-sort-colors](https://github.com/Realsunnysagar/Solutions-of-LeetCode-and-GFG/tree/master/0075-sort-colors) |
 | [0268-missing-number](https://github.com/Realsunnysagar/Solutions-of-LeetCode-and-GFG/tree/master/0268-missing-number) |
+| [0905-sort-array-by-parity](https://github.com/Realsunnysagar/Solutions-of-LeetCode-and-GFG/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/Realsunnysagar/Solutions-of-LeetCode-and-GFG/tree/master/0977-squares-of-a-sorted-array) |
 ## Data Stream
 |  |
