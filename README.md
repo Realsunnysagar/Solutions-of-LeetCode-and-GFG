@@ -29,6 +29,7 @@
 | [0977-squares-of-a-sorted-array](https://github.com/Realsunnysagar/Solutions-of-LeetCode-and-GFG/tree/master/0977-squares-of-a-sorted-array) |
 | [0994-rotting-oranges](https://github.com/Realsunnysagar/Solutions-of-LeetCode-and-GFG/tree/master/0994-rotting-oranges) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/Realsunnysagar/Solutions-of-LeetCode-and-GFG/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Realsunnysagar/Solutions-of-LeetCode-and-GFG/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Realsunnysagar/Solutions-of-LeetCode-and-GFG/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1470-shuffle-the-array](https://github.com/Realsunnysagar/Solutions-of-LeetCode-and-GFG/tree/master/1470-shuffle-the-array) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Realsunnysagar/Solutions-of-LeetCode-and-GFG/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
@@ -166,6 +167,7 @@
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/Realsunnysagar/Solutions-of-LeetCode-and-GFG/tree/master/0219-contains-duplicate-ii) |
 | [0239-sliding-window-maximum](https://github.com/Realsunnysagar/Solutions-of-LeetCode-and-GFG/tree/master/0239-sliding-window-maximum) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Realsunnysagar/Solutions-of-LeetCode-and-GFG/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 ## Design
 |  |
 | ------- |
@@ -194,6 +196,7 @@
 |  |
 | ------- |
 | [0724-find-pivot-index](https://github.com/Realsunnysagar/Solutions-of-LeetCode-and-GFG/tree/master/0724-find-pivot-index) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Realsunnysagar/Solutions-of-LeetCode-and-GFG/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1480-running-sum-of-1d-array](https://github.com/Realsunnysagar/Solutions-of-LeetCode-and-GFG/tree/master/1480-running-sum-of-1d-array) |
 ## Sorting
 |  |
