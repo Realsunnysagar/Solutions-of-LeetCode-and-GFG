@@ -105,6 +105,7 @@
 | [0229-majority-element-ii](https://github.com/Realsunnysagar/Solutions-of-LeetCode-and-GFG/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/Realsunnysagar/Solutions-of-LeetCode-and-GFG/tree/master/0268-missing-number) |
 | [0387-first-unique-character-in-a-string](https://github.com/Realsunnysagar/Solutions-of-LeetCode-and-GFG/tree/master/0387-first-unique-character-in-a-string) |
+| [0424-longest-repeating-character-replacement](https://github.com/Realsunnysagar/Solutions-of-LeetCode-and-GFG/tree/master/0424-longest-repeating-character-replacement) |
 | [0496-next-greater-element-i](https://github.com/Realsunnysagar/Solutions-of-LeetCode-and-GFG/tree/master/0496-next-greater-element-i) |
 | [0904-fruit-into-baskets](https://github.com/Realsunnysagar/Solutions-of-LeetCode-and-GFG/tree/master/0904-fruit-into-baskets) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Realsunnysagar/Solutions-of-LeetCode-and-GFG/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -117,6 +118,7 @@
 | [0032-longest-valid-parentheses](https://github.com/Realsunnysagar/Solutions-of-LeetCode-and-GFG/tree/master/0032-longest-valid-parentheses) |
 | [0387-first-unique-character-in-a-string](https://github.com/Realsunnysagar/Solutions-of-LeetCode-and-GFG/tree/master/0387-first-unique-character-in-a-string) |
 | [0402-remove-k-digits](https://github.com/Realsunnysagar/Solutions-of-LeetCode-and-GFG/tree/master/0402-remove-k-digits) |
+| [0424-longest-repeating-character-replacement](https://github.com/Realsunnysagar/Solutions-of-LeetCode-and-GFG/tree/master/0424-longest-repeating-character-replacement) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Realsunnysagar/Solutions-of-LeetCode-and-GFG/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## Queue
 |  |
@@ -176,6 +178,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/Realsunnysagar/Solutions-of-LeetCode-and-GFG/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0219-contains-duplicate-ii](https://github.com/Realsunnysagar/Solutions-of-LeetCode-and-GFG/tree/master/0219-contains-duplicate-ii) |
 | [0239-sliding-window-maximum](https://github.com/Realsunnysagar/Solutions-of-LeetCode-and-GFG/tree/master/0239-sliding-window-maximum) |
+| [0424-longest-repeating-character-replacement](https://github.com/Realsunnysagar/Solutions-of-LeetCode-and-GFG/tree/master/0424-longest-repeating-character-replacement) |
 | [0904-fruit-into-baskets](https://github.com/Realsunnysagar/Solutions-of-LeetCode-and-GFG/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/Realsunnysagar/Solutions-of-LeetCode-and-GFG/tree/master/1004-max-consecutive-ones-iii) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Realsunnysagar/Solutions-of-LeetCode-and-GFG/tree/master/1358-number-of-substrings-containing-all-three-characters) |
