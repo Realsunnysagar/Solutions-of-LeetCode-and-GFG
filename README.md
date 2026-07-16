@@ -23,6 +23,7 @@
 | [0496-next-greater-element-i](https://github.com/Realsunnysagar/Solutions-of-LeetCode-and-GFG/tree/master/0496-next-greater-element-i) |
 | [0724-find-pivot-index](https://github.com/Realsunnysagar/Solutions-of-LeetCode-and-GFG/tree/master/0724-find-pivot-index) |
 | [0735-asteroid-collision](https://github.com/Realsunnysagar/Solutions-of-LeetCode-and-GFG/tree/master/0735-asteroid-collision) |
+| [0904-fruit-into-baskets](https://github.com/Realsunnysagar/Solutions-of-LeetCode-and-GFG/tree/master/0904-fruit-into-baskets) |
 | [0905-sort-array-by-parity](https://github.com/Realsunnysagar/Solutions-of-LeetCode-and-GFG/tree/master/0905-sort-array-by-parity) |
 | [0907-sum-of-subarray-minimums](https://github.com/Realsunnysagar/Solutions-of-LeetCode-and-GFG/tree/master/0907-sum-of-subarray-minimums) |
 | [0922-sort-array-by-parity-ii](https://github.com/Realsunnysagar/Solutions-of-LeetCode-and-GFG/tree/master/0922-sort-array-by-parity-ii) |
@@ -105,6 +106,7 @@
 | [0268-missing-number](https://github.com/Realsunnysagar/Solutions-of-LeetCode-and-GFG/tree/master/0268-missing-number) |
 | [0387-first-unique-character-in-a-string](https://github.com/Realsunnysagar/Solutions-of-LeetCode-and-GFG/tree/master/0387-first-unique-character-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/Realsunnysagar/Solutions-of-LeetCode-and-GFG/tree/master/0496-next-greater-element-i) |
+| [0904-fruit-into-baskets](https://github.com/Realsunnysagar/Solutions-of-LeetCode-and-GFG/tree/master/0904-fruit-into-baskets) |
 | [1512-number-of-good-pairs](https://github.com/Realsunnysagar/Solutions-of-LeetCode-and-GFG/tree/master/1512-number-of-good-pairs) |
 ## String
 |  |
@@ -172,6 +174,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/Realsunnysagar/Solutions-of-LeetCode-and-GFG/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0219-contains-duplicate-ii](https://github.com/Realsunnysagar/Solutions-of-LeetCode-and-GFG/tree/master/0219-contains-duplicate-ii) |
 | [0239-sliding-window-maximum](https://github.com/Realsunnysagar/Solutions-of-LeetCode-and-GFG/tree/master/0239-sliding-window-maximum) |
+| [0904-fruit-into-baskets](https://github.com/Realsunnysagar/Solutions-of-LeetCode-and-GFG/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/Realsunnysagar/Solutions-of-LeetCode-and-GFG/tree/master/1004-max-consecutive-ones-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Realsunnysagar/Solutions-of-LeetCode-and-GFG/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 ## Design
