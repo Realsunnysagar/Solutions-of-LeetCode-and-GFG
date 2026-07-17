@@ -28,6 +28,7 @@
 | [0905-sort-array-by-parity](https://github.com/Realsunnysagar/Solutions-of-LeetCode-and-GFG/tree/master/0905-sort-array-by-parity) |
 | [0907-sum-of-subarray-minimums](https://github.com/Realsunnysagar/Solutions-of-LeetCode-and-GFG/tree/master/0907-sum-of-subarray-minimums) |
 | [0922-sort-array-by-parity-ii](https://github.com/Realsunnysagar/Solutions-of-LeetCode-and-GFG/tree/master/0922-sort-array-by-parity-ii) |
+| [0930-binary-subarrays-with-sum](https://github.com/Realsunnysagar/Solutions-of-LeetCode-and-GFG/tree/master/0930-binary-subarrays-with-sum) |
 | [0977-squares-of-a-sorted-array](https://github.com/Realsunnysagar/Solutions-of-LeetCode-and-GFG/tree/master/0977-squares-of-a-sorted-array) |
 | [0994-rotting-oranges](https://github.com/Realsunnysagar/Solutions-of-LeetCode-and-GFG/tree/master/0994-rotting-oranges) |
 | [1004-max-consecutive-ones-iii](https://github.com/Realsunnysagar/Solutions-of-LeetCode-and-GFG/tree/master/1004-max-consecutive-ones-iii) |
@@ -109,6 +110,7 @@
 | [0424-longest-repeating-character-replacement](https://github.com/Realsunnysagar/Solutions-of-LeetCode-and-GFG/tree/master/0424-longest-repeating-character-replacement) |
 | [0496-next-greater-element-i](https://github.com/Realsunnysagar/Solutions-of-LeetCode-and-GFG/tree/master/0496-next-greater-element-i) |
 | [0904-fruit-into-baskets](https://github.com/Realsunnysagar/Solutions-of-LeetCode-and-GFG/tree/master/0904-fruit-into-baskets) |
+| [0930-binary-subarrays-with-sum](https://github.com/Realsunnysagar/Solutions-of-LeetCode-and-GFG/tree/master/0930-binary-subarrays-with-sum) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Realsunnysagar/Solutions-of-LeetCode-and-GFG/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1512-number-of-good-pairs](https://github.com/Realsunnysagar/Solutions-of-LeetCode-and-GFG/tree/master/1512-number-of-good-pairs) |
 ## String
@@ -182,6 +184,7 @@
 | [0424-longest-repeating-character-replacement](https://github.com/Realsunnysagar/Solutions-of-LeetCode-and-GFG/tree/master/0424-longest-repeating-character-replacement) |
 | [0643-maximum-average-subarray-i](https://github.com/Realsunnysagar/Solutions-of-LeetCode-and-GFG/tree/master/0643-maximum-average-subarray-i) |
 | [0904-fruit-into-baskets](https://github.com/Realsunnysagar/Solutions-of-LeetCode-and-GFG/tree/master/0904-fruit-into-baskets) |
+| [0930-binary-subarrays-with-sum](https://github.com/Realsunnysagar/Solutions-of-LeetCode-and-GFG/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/Realsunnysagar/Solutions-of-LeetCode-and-GFG/tree/master/1004-max-consecutive-ones-iii) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Realsunnysagar/Solutions-of-LeetCode-and-GFG/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Realsunnysagar/Solutions-of-LeetCode-and-GFG/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
@@ -213,6 +216,7 @@
 |  |
 | ------- |
 | [0724-find-pivot-index](https://github.com/Realsunnysagar/Solutions-of-LeetCode-and-GFG/tree/master/0724-find-pivot-index) |
+| [0930-binary-subarrays-with-sum](https://github.com/Realsunnysagar/Solutions-of-LeetCode-and-GFG/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/Realsunnysagar/Solutions-of-LeetCode-and-GFG/tree/master/1004-max-consecutive-ones-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Realsunnysagar/Solutions-of-LeetCode-and-GFG/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1480-running-sum-of-1d-array](https://github.com/Realsunnysagar/Solutions-of-LeetCode-and-GFG/tree/master/1480-running-sum-of-1d-array) |
