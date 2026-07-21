@@ -13,7 +13,7 @@ public:
                 }
                 else return false;
             }else{
-                if(ten != 0 && five != 0){
+                if(ten && five){
                     ten--;
                     five--;
                 }
