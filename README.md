@@ -22,6 +22,7 @@
 | [0229-majority-element-ii](https://github.com/Realsunnysagar/Solutions-of-LeetCode-and-GFG/tree/master/0229-majority-element-ii) |
 | [0239-sliding-window-maximum](https://github.com/Realsunnysagar/Solutions-of-LeetCode-and-GFG/tree/master/0239-sliding-window-maximum) |
 | [0268-missing-number](https://github.com/Realsunnysagar/Solutions-of-LeetCode-and-GFG/tree/master/0268-missing-number) |
+| [0435-non-overlapping-intervals](https://github.com/Realsunnysagar/Solutions-of-LeetCode-and-GFG/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/Realsunnysagar/Solutions-of-LeetCode-and-GFG/tree/master/0455-assign-cookies) |
 | [0496-next-greater-element-i](https://github.com/Realsunnysagar/Solutions-of-LeetCode-and-GFG/tree/master/0496-next-greater-element-i) |
 | [0643-maximum-average-subarray-i](https://github.com/Realsunnysagar/Solutions-of-LeetCode-and-GFG/tree/master/0643-maximum-average-subarray-i) |
@@ -157,6 +158,7 @@
 | [0045-jump-game-ii](https://github.com/Realsunnysagar/Solutions-of-LeetCode-and-GFG/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Realsunnysagar/Solutions-of-LeetCode-and-GFG/tree/master/0055-jump-game) |
 | [0085-maximal-rectangle](https://github.com/Realsunnysagar/Solutions-of-LeetCode-and-GFG/tree/master/0085-maximal-rectangle) |
+| [0435-non-overlapping-intervals](https://github.com/Realsunnysagar/Solutions-of-LeetCode-and-GFG/tree/master/0435-non-overlapping-intervals) |
 | [0907-sum-of-subarray-minimums](https://github.com/Realsunnysagar/Solutions-of-LeetCode-and-GFG/tree/master/0907-sum-of-subarray-minimums) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/Realsunnysagar/Solutions-of-LeetCode-and-GFG/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 ## Backtracking
@@ -224,6 +226,7 @@
 | [0045-jump-game-ii](https://github.com/Realsunnysagar/Solutions-of-LeetCode-and-GFG/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Realsunnysagar/Solutions-of-LeetCode-and-GFG/tree/master/0055-jump-game) |
 | [0402-remove-k-digits](https://github.com/Realsunnysagar/Solutions-of-LeetCode-and-GFG/tree/master/0402-remove-k-digits) |
+| [0435-non-overlapping-intervals](https://github.com/Realsunnysagar/Solutions-of-LeetCode-and-GFG/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/Realsunnysagar/Solutions-of-LeetCode-and-GFG/tree/master/0455-assign-cookies) |
 | [0860-lemonade-change](https://github.com/Realsunnysagar/Solutions-of-LeetCode-and-GFG/tree/master/0860-lemonade-change) |
 ## Simulation
@@ -250,6 +253,7 @@
 | [0169-majority-element](https://github.com/Realsunnysagar/Solutions-of-LeetCode-and-GFG/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Realsunnysagar/Solutions-of-LeetCode-and-GFG/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/Realsunnysagar/Solutions-of-LeetCode-and-GFG/tree/master/0268-missing-number) |
+| [0435-non-overlapping-intervals](https://github.com/Realsunnysagar/Solutions-of-LeetCode-and-GFG/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/Realsunnysagar/Solutions-of-LeetCode-and-GFG/tree/master/0455-assign-cookies) |
 | [0905-sort-array-by-parity](https://github.com/Realsunnysagar/Solutions-of-LeetCode-and-GFG/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/Realsunnysagar/Solutions-of-LeetCode-and-GFG/tree/master/0922-sort-array-by-parity-ii) |
