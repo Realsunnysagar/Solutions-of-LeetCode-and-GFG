@@ -25,6 +25,7 @@
 | [0643-maximum-average-subarray-i](https://github.com/Realsunnysagar/Solutions-of-LeetCode-and-GFG/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/Realsunnysagar/Solutions-of-LeetCode-and-GFG/tree/master/0724-find-pivot-index) |
 | [0735-asteroid-collision](https://github.com/Realsunnysagar/Solutions-of-LeetCode-and-GFG/tree/master/0735-asteroid-collision) |
+| [0860-lemonade-change](https://github.com/Realsunnysagar/Solutions-of-LeetCode-and-GFG/tree/master/0860-lemonade-change) |
 | [0904-fruit-into-baskets](https://github.com/Realsunnysagar/Solutions-of-LeetCode-and-GFG/tree/master/0904-fruit-into-baskets) |
 | [0905-sort-array-by-parity](https://github.com/Realsunnysagar/Solutions-of-LeetCode-and-GFG/tree/master/0905-sort-array-by-parity) |
 | [0907-sum-of-subarray-minimums](https://github.com/Realsunnysagar/Solutions-of-LeetCode-and-GFG/tree/master/0907-sum-of-subarray-minimums) |
@@ -218,6 +219,7 @@
 | [0011-container-with-most-water](https://github.com/Realsunnysagar/Solutions-of-LeetCode-and-GFG/tree/master/0011-container-with-most-water) |
 | [0402-remove-k-digits](https://github.com/Realsunnysagar/Solutions-of-LeetCode-and-GFG/tree/master/0402-remove-k-digits) |
 | [0455-assign-cookies](https://github.com/Realsunnysagar/Solutions-of-LeetCode-and-GFG/tree/master/0455-assign-cookies) |
+| [0860-lemonade-change](https://github.com/Realsunnysagar/Solutions-of-LeetCode-and-GFG/tree/master/0860-lemonade-change) |
 ## Simulation
 |  |
 | ------- |
