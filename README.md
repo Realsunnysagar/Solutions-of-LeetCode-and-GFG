@@ -20,6 +20,7 @@
 | [0229-majority-element-ii](https://github.com/Realsunnysagar/Solutions-of-LeetCode-and-GFG/tree/master/0229-majority-element-ii) |
 | [0239-sliding-window-maximum](https://github.com/Realsunnysagar/Solutions-of-LeetCode-and-GFG/tree/master/0239-sliding-window-maximum) |
 | [0268-missing-number](https://github.com/Realsunnysagar/Solutions-of-LeetCode-and-GFG/tree/master/0268-missing-number) |
+| [0455-assign-cookies](https://github.com/Realsunnysagar/Solutions-of-LeetCode-and-GFG/tree/master/0455-assign-cookies) |
 | [0496-next-greater-element-i](https://github.com/Realsunnysagar/Solutions-of-LeetCode-and-GFG/tree/master/0496-next-greater-element-i) |
 | [0643-maximum-average-subarray-i](https://github.com/Realsunnysagar/Solutions-of-LeetCode-and-GFG/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/Realsunnysagar/Solutions-of-LeetCode-and-GFG/tree/master/0724-find-pivot-index) |
@@ -172,6 +173,7 @@
 | [0031-next-permutation](https://github.com/Realsunnysagar/Solutions-of-LeetCode-and-GFG/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/Realsunnysagar/Solutions-of-LeetCode-and-GFG/tree/master/0075-sort-colors) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Realsunnysagar/Solutions-of-LeetCode-and-GFG/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0455-assign-cookies](https://github.com/Realsunnysagar/Solutions-of-LeetCode-and-GFG/tree/master/0455-assign-cookies) |
 | [0905-sort-array-by-parity](https://github.com/Realsunnysagar/Solutions-of-LeetCode-and-GFG/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/Realsunnysagar/Solutions-of-LeetCode-and-GFG/tree/master/0922-sort-array-by-parity-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/Realsunnysagar/Solutions-of-LeetCode-and-GFG/tree/master/0977-squares-of-a-sorted-array) |
@@ -215,6 +217,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/Realsunnysagar/Solutions-of-LeetCode-and-GFG/tree/master/0011-container-with-most-water) |
 | [0402-remove-k-digits](https://github.com/Realsunnysagar/Solutions-of-LeetCode-and-GFG/tree/master/0402-remove-k-digits) |
+| [0455-assign-cookies](https://github.com/Realsunnysagar/Solutions-of-LeetCode-and-GFG/tree/master/0455-assign-cookies) |
 ## Simulation
 |  |
 | ------- |
@@ -239,6 +242,7 @@
 | [0169-majority-element](https://github.com/Realsunnysagar/Solutions-of-LeetCode-and-GFG/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Realsunnysagar/Solutions-of-LeetCode-and-GFG/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/Realsunnysagar/Solutions-of-LeetCode-and-GFG/tree/master/0268-missing-number) |
+| [0455-assign-cookies](https://github.com/Realsunnysagar/Solutions-of-LeetCode-and-GFG/tree/master/0455-assign-cookies) |
 | [0905-sort-array-by-parity](https://github.com/Realsunnysagar/Solutions-of-LeetCode-and-GFG/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/Realsunnysagar/Solutions-of-LeetCode-and-GFG/tree/master/0922-sort-array-by-parity-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/Realsunnysagar/Solutions-of-LeetCode-and-GFG/tree/master/0977-squares-of-a-sorted-array) |
