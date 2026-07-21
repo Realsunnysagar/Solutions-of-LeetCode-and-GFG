@@ -8,6 +8,7 @@
 | [0011-container-with-most-water](https://github.com/Realsunnysagar/Solutions-of-LeetCode-and-GFG/tree/master/0011-container-with-most-water) |
 | [0027-remove-element](https://github.com/Realsunnysagar/Solutions-of-LeetCode-and-GFG/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/Realsunnysagar/Solutions-of-LeetCode-and-GFG/tree/master/0031-next-permutation) |
+| [0045-jump-game-ii](https://github.com/Realsunnysagar/Solutions-of-LeetCode-and-GFG/tree/master/0045-jump-game-ii) |
 | [0048-rotate-image](https://github.com/Realsunnysagar/Solutions-of-LeetCode-and-GFG/tree/master/0048-rotate-image) |
 | [0055-jump-game](https://github.com/Realsunnysagar/Solutions-of-LeetCode-and-GFG/tree/master/0055-jump-game) |
 | [0075-sort-colors](https://github.com/Realsunnysagar/Solutions-of-LeetCode-and-GFG/tree/master/0075-sort-colors) |
@@ -153,6 +154,7 @@
 | ------- |
 | [0022-generate-parentheses](https://github.com/Realsunnysagar/Solutions-of-LeetCode-and-GFG/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Realsunnysagar/Solutions-of-LeetCode-and-GFG/tree/master/0032-longest-valid-parentheses) |
+| [0045-jump-game-ii](https://github.com/Realsunnysagar/Solutions-of-LeetCode-and-GFG/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Realsunnysagar/Solutions-of-LeetCode-and-GFG/tree/master/0055-jump-game) |
 | [0085-maximal-rectangle](https://github.com/Realsunnysagar/Solutions-of-LeetCode-and-GFG/tree/master/0085-maximal-rectangle) |
 | [0907-sum-of-subarray-minimums](https://github.com/Realsunnysagar/Solutions-of-LeetCode-and-GFG/tree/master/0907-sum-of-subarray-minimums) |
@@ -219,6 +221,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Realsunnysagar/Solutions-of-LeetCode-and-GFG/tree/master/0011-container-with-most-water) |
+| [0045-jump-game-ii](https://github.com/Realsunnysagar/Solutions-of-LeetCode-and-GFG/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Realsunnysagar/Solutions-of-LeetCode-and-GFG/tree/master/0055-jump-game) |
 | [0402-remove-k-digits](https://github.com/Realsunnysagar/Solutions-of-LeetCode-and-GFG/tree/master/0402-remove-k-digits) |
 | [0455-assign-cookies](https://github.com/Realsunnysagar/Solutions-of-LeetCode-and-GFG/tree/master/0455-assign-cookies) |
