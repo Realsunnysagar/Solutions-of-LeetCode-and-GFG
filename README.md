@@ -65,6 +65,7 @@
 | [0232-implement-queue-using-stacks](https://github.com/Realsunnysagar/Solutions-of-LeetCode-and-GFG/tree/master/0232-implement-queue-using-stacks) |
 | [0402-remove-k-digits](https://github.com/Realsunnysagar/Solutions-of-LeetCode-and-GFG/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/Realsunnysagar/Solutions-of-LeetCode-and-GFG/tree/master/0496-next-greater-element-i) |
+| [0678-valid-parenthesis-string](https://github.com/Realsunnysagar/Solutions-of-LeetCode-and-GFG/tree/master/0678-valid-parenthesis-string) |
 | [0735-asteroid-collision](https://github.com/Realsunnysagar/Solutions-of-LeetCode-and-GFG/tree/master/0735-asteroid-collision) |
 | [0901-online-stock-span](https://github.com/Realsunnysagar/Solutions-of-LeetCode-and-GFG/tree/master/0901-online-stock-span) |
 | [0907-sum-of-subarray-minimums](https://github.com/Realsunnysagar/Solutions-of-LeetCode-and-GFG/tree/master/0907-sum-of-subarray-minimums) |
@@ -135,6 +136,7 @@
 | [0387-first-unique-character-in-a-string](https://github.com/Realsunnysagar/Solutions-of-LeetCode-and-GFG/tree/master/0387-first-unique-character-in-a-string) |
 | [0402-remove-k-digits](https://github.com/Realsunnysagar/Solutions-of-LeetCode-and-GFG/tree/master/0402-remove-k-digits) |
 | [0424-longest-repeating-character-replacement](https://github.com/Realsunnysagar/Solutions-of-LeetCode-and-GFG/tree/master/0424-longest-repeating-character-replacement) |
+| [0678-valid-parenthesis-string](https://github.com/Realsunnysagar/Solutions-of-LeetCode-and-GFG/tree/master/0678-valid-parenthesis-string) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Realsunnysagar/Solutions-of-LeetCode-and-GFG/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## Queue
 |  |
@@ -160,6 +162,7 @@
 | [0055-jump-game](https://github.com/Realsunnysagar/Solutions-of-LeetCode-and-GFG/tree/master/0055-jump-game) |
 | [0085-maximal-rectangle](https://github.com/Realsunnysagar/Solutions-of-LeetCode-and-GFG/tree/master/0085-maximal-rectangle) |
 | [0435-non-overlapping-intervals](https://github.com/Realsunnysagar/Solutions-of-LeetCode-and-GFG/tree/master/0435-non-overlapping-intervals) |
+| [0678-valid-parenthesis-string](https://github.com/Realsunnysagar/Solutions-of-LeetCode-and-GFG/tree/master/0678-valid-parenthesis-string) |
 | [0907-sum-of-subarray-minimums](https://github.com/Realsunnysagar/Solutions-of-LeetCode-and-GFG/tree/master/0907-sum-of-subarray-minimums) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/Realsunnysagar/Solutions-of-LeetCode-and-GFG/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 ## Backtracking
@@ -229,6 +232,7 @@
 | [0402-remove-k-digits](https://github.com/Realsunnysagar/Solutions-of-LeetCode-and-GFG/tree/master/0402-remove-k-digits) |
 | [0435-non-overlapping-intervals](https://github.com/Realsunnysagar/Solutions-of-LeetCode-and-GFG/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/Realsunnysagar/Solutions-of-LeetCode-and-GFG/tree/master/0455-assign-cookies) |
+| [0678-valid-parenthesis-string](https://github.com/Realsunnysagar/Solutions-of-LeetCode-and-GFG/tree/master/0678-valid-parenthesis-string) |
 | [0860-lemonade-change](https://github.com/Realsunnysagar/Solutions-of-LeetCode-and-GFG/tree/master/0860-lemonade-change) |
 ## Simulation
 |  |
