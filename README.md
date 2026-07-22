@@ -11,6 +11,7 @@
 | [0045-jump-game-ii](https://github.com/Realsunnysagar/Solutions-of-LeetCode-and-GFG/tree/master/0045-jump-game-ii) |
 | [0048-rotate-image](https://github.com/Realsunnysagar/Solutions-of-LeetCode-and-GFG/tree/master/0048-rotate-image) |
 | [0055-jump-game](https://github.com/Realsunnysagar/Solutions-of-LeetCode-and-GFG/tree/master/0055-jump-game) |
+| [0057-insert-interval](https://github.com/Realsunnysagar/Solutions-of-LeetCode-and-GFG/tree/master/0057-insert-interval) |
 | [0075-sort-colors](https://github.com/Realsunnysagar/Solutions-of-LeetCode-and-GFG/tree/master/0075-sort-colors) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Realsunnysagar/Solutions-of-LeetCode-and-GFG/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/Realsunnysagar/Solutions-of-LeetCode-and-GFG/tree/master/0085-maximal-rectangle) |
