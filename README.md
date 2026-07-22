@@ -15,6 +15,7 @@
 | [0075-sort-colors](https://github.com/Realsunnysagar/Solutions-of-LeetCode-and-GFG/tree/master/0075-sort-colors) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Realsunnysagar/Solutions-of-LeetCode-and-GFG/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/Realsunnysagar/Solutions-of-LeetCode-and-GFG/tree/master/0085-maximal-rectangle) |
+| [0135-candy](https://github.com/Realsunnysagar/Solutions-of-LeetCode-and-GFG/tree/master/0135-candy) |
 | [0136-single-number](https://github.com/Realsunnysagar/Solutions-of-LeetCode-and-GFG/tree/master/0136-single-number) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Realsunnysagar/Solutions-of-LeetCode-and-GFG/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Realsunnysagar/Solutions-of-LeetCode-and-GFG/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -229,6 +230,7 @@
 | [0011-container-with-most-water](https://github.com/Realsunnysagar/Solutions-of-LeetCode-and-GFG/tree/master/0011-container-with-most-water) |
 | [0045-jump-game-ii](https://github.com/Realsunnysagar/Solutions-of-LeetCode-and-GFG/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Realsunnysagar/Solutions-of-LeetCode-and-GFG/tree/master/0055-jump-game) |
+| [0135-candy](https://github.com/Realsunnysagar/Solutions-of-LeetCode-and-GFG/tree/master/0135-candy) |
 | [0402-remove-k-digits](https://github.com/Realsunnysagar/Solutions-of-LeetCode-and-GFG/tree/master/0402-remove-k-digits) |
 | [0435-non-overlapping-intervals](https://github.com/Realsunnysagar/Solutions-of-LeetCode-and-GFG/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/Realsunnysagar/Solutions-of-LeetCode-and-GFG/tree/master/0455-assign-cookies) |
