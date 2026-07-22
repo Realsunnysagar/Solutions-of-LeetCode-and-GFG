@@ -15,7 +15,7 @@ public:
                 maxOpen = maxOpen + 1;
             }
             if(maxOpen < 0) return false;
-            if(minOpen < 0) minOpen = max(minOpen, 0);
+            if(minOpen < 0) minOpen = 0;
         }
         return (minOpen == 0);
     }
