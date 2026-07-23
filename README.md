@@ -28,6 +28,7 @@
 | [0435-non-overlapping-intervals](https://github.com/Realsunnysagar/Solutions-of-LeetCode-and-GFG/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/Realsunnysagar/Solutions-of-LeetCode-and-GFG/tree/master/0455-assign-cookies) |
 | [0496-next-greater-element-i](https://github.com/Realsunnysagar/Solutions-of-LeetCode-and-GFG/tree/master/0496-next-greater-element-i) |
+| [0560-subarray-sum-equals-k](https://github.com/Realsunnysagar/Solutions-of-LeetCode-and-GFG/tree/master/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/Realsunnysagar/Solutions-of-LeetCode-and-GFG/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/Realsunnysagar/Solutions-of-LeetCode-and-GFG/tree/master/0724-find-pivot-index) |
 | [0735-asteroid-collision](https://github.com/Realsunnysagar/Solutions-of-LeetCode-and-GFG/tree/master/0735-asteroid-collision) |
@@ -122,6 +123,7 @@
 | [0387-first-unique-character-in-a-string](https://github.com/Realsunnysagar/Solutions-of-LeetCode-and-GFG/tree/master/0387-first-unique-character-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/Realsunnysagar/Solutions-of-LeetCode-and-GFG/tree/master/0424-longest-repeating-character-replacement) |
 | [0496-next-greater-element-i](https://github.com/Realsunnysagar/Solutions-of-LeetCode-and-GFG/tree/master/0496-next-greater-element-i) |
+| [0560-subarray-sum-equals-k](https://github.com/Realsunnysagar/Solutions-of-LeetCode-and-GFG/tree/master/0560-subarray-sum-equals-k) |
 | [0904-fruit-into-baskets](https://github.com/Realsunnysagar/Solutions-of-LeetCode-and-GFG/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/Realsunnysagar/Solutions-of-LeetCode-and-GFG/tree/master/0930-binary-subarrays-with-sum) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Realsunnysagar/Solutions-of-LeetCode-and-GFG/tree/master/0992-subarrays-with-k-different-integers) |
@@ -248,6 +250,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0560-subarray-sum-equals-k](https://github.com/Realsunnysagar/Solutions-of-LeetCode-and-GFG/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/Realsunnysagar/Solutions-of-LeetCode-and-GFG/tree/master/0724-find-pivot-index) |
 | [0930-binary-subarrays-with-sum](https://github.com/Realsunnysagar/Solutions-of-LeetCode-and-GFG/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/Realsunnysagar/Solutions-of-LeetCode-and-GFG/tree/master/1004-max-consecutive-ones-iii) |
