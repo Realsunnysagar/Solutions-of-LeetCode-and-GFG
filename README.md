@@ -29,6 +29,7 @@
 | [0455-assign-cookies](https://github.com/Realsunnysagar/Solutions-of-LeetCode-and-GFG/tree/master/0455-assign-cookies) |
 | [0496-next-greater-element-i](https://github.com/Realsunnysagar/Solutions-of-LeetCode-and-GFG/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/Realsunnysagar/Solutions-of-LeetCode-and-GFG/tree/master/0560-subarray-sum-equals-k) |
+| [0605-can-place-flowers](https://github.com/Realsunnysagar/Solutions-of-LeetCode-and-GFG/tree/master/0605-can-place-flowers) |
 | [0643-maximum-average-subarray-i](https://github.com/Realsunnysagar/Solutions-of-LeetCode-and-GFG/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/Realsunnysagar/Solutions-of-LeetCode-and-GFG/tree/master/0724-find-pivot-index) |
 | [0735-asteroid-collision](https://github.com/Realsunnysagar/Solutions-of-LeetCode-and-GFG/tree/master/0735-asteroid-collision) |
@@ -237,6 +238,7 @@
 | [0402-remove-k-digits](https://github.com/Realsunnysagar/Solutions-of-LeetCode-and-GFG/tree/master/0402-remove-k-digits) |
 | [0435-non-overlapping-intervals](https://github.com/Realsunnysagar/Solutions-of-LeetCode-and-GFG/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/Realsunnysagar/Solutions-of-LeetCode-and-GFG/tree/master/0455-assign-cookies) |
+| [0605-can-place-flowers](https://github.com/Realsunnysagar/Solutions-of-LeetCode-and-GFG/tree/master/0605-can-place-flowers) |
 | [0678-valid-parenthesis-string](https://github.com/Realsunnysagar/Solutions-of-LeetCode-and-GFG/tree/master/0678-valid-parenthesis-string) |
 | [0860-lemonade-change](https://github.com/Realsunnysagar/Solutions-of-LeetCode-and-GFG/tree/master/0860-lemonade-change) |
 ## Simulation
