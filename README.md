@@ -63,6 +63,7 @@
 | [0032-longest-valid-parentheses](https://github.com/Realsunnysagar/Solutions-of-LeetCode-and-GFG/tree/master/0032-longest-valid-parentheses) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Realsunnysagar/Solutions-of-LeetCode-and-GFG/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/Realsunnysagar/Solutions-of-LeetCode-and-GFG/tree/master/0085-maximal-rectangle) |
+| [0144-binary-tree-preorder-traversal](https://github.com/Realsunnysagar/Solutions-of-LeetCode-and-GFG/tree/master/0144-binary-tree-preorder-traversal) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Realsunnysagar/Solutions-of-LeetCode-and-GFG/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/Realsunnysagar/Solutions-of-LeetCode-and-GFG/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/Realsunnysagar/Solutions-of-LeetCode-and-GFG/tree/master/0225-implement-stack-using-queues) |
@@ -288,4 +289,16 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Realsunnysagar/Solutions-of-LeetCode-and-GFG/tree/master/0169-majority-element) |
+## Tree
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/Realsunnysagar/Solutions-of-LeetCode-and-GFG/tree/master/0144-binary-tree-preorder-traversal) |
+## Depth-First Search
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/Realsunnysagar/Solutions-of-LeetCode-and-GFG/tree/master/0144-binary-tree-preorder-traversal) |
+## Binary Tree
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/Realsunnysagar/Solutions-of-LeetCode-and-GFG/tree/master/0144-binary-tree-preorder-traversal) |
 <!---LeetCode Topics End-->
