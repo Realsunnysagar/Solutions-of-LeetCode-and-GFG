@@ -45,6 +45,7 @@
 | [1004-max-consecutive-ones-iii](https://github.com/Realsunnysagar/Solutions-of-LeetCode-and-GFG/tree/master/1004-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Realsunnysagar/Solutions-of-LeetCode-and-GFG/tree/master/1248-count-number-of-nice-subarrays) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/Realsunnysagar/Solutions-of-LeetCode-and-GFG/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
+| [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Realsunnysagar/Solutions-of-LeetCode-and-GFG/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Realsunnysagar/Solutions-of-LeetCode-and-GFG/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Realsunnysagar/Solutions-of-LeetCode-and-GFG/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1470-shuffle-the-array](https://github.com/Realsunnysagar/Solutions-of-LeetCode-and-GFG/tree/master/1470-shuffle-the-array) |
@@ -217,6 +218,7 @@
 | [0992-subarrays-with-k-different-integers](https://github.com/Realsunnysagar/Solutions-of-LeetCode-and-GFG/tree/master/0992-subarrays-with-k-different-integers) |
 | [1004-max-consecutive-ones-iii](https://github.com/Realsunnysagar/Solutions-of-LeetCode-and-GFG/tree/master/1004-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Realsunnysagar/Solutions-of-LeetCode-and-GFG/tree/master/1248-count-number-of-nice-subarrays) |
+| [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Realsunnysagar/Solutions-of-LeetCode-and-GFG/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Realsunnysagar/Solutions-of-LeetCode-and-GFG/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Realsunnysagar/Solutions-of-LeetCode-and-GFG/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Realsunnysagar/Solutions-of-LeetCode-and-GFG/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
