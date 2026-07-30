@@ -233,6 +233,7 @@
 ## Breadth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/Realsunnysagar/Solutions-of-LeetCode-and-GFG/tree/master/0100-same-tree) |
 | [0994-rotting-oranges](https://github.com/Realsunnysagar/Solutions-of-LeetCode-and-GFG/tree/master/0994-rotting-oranges) |
 ## Greedy
 |  |
@@ -297,6 +298,7 @@
 ## Tree
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/Realsunnysagar/Solutions-of-LeetCode-and-GFG/tree/master/0100-same-tree) |
 | [0110-balanced-binary-tree](https://github.com/Realsunnysagar/Solutions-of-LeetCode-and-GFG/tree/master/0110-balanced-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Realsunnysagar/Solutions-of-LeetCode-and-GFG/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Realsunnysagar/Solutions-of-LeetCode-and-GFG/tree/master/0144-binary-tree-preorder-traversal) |
@@ -304,6 +306,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/Realsunnysagar/Solutions-of-LeetCode-and-GFG/tree/master/0100-same-tree) |
 | [0110-balanced-binary-tree](https://github.com/Realsunnysagar/Solutions-of-LeetCode-and-GFG/tree/master/0110-balanced-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Realsunnysagar/Solutions-of-LeetCode-and-GFG/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Realsunnysagar/Solutions-of-LeetCode-and-GFG/tree/master/0144-binary-tree-preorder-traversal) |
@@ -311,6 +314,7 @@
 ## Binary Tree
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/Realsunnysagar/Solutions-of-LeetCode-and-GFG/tree/master/0100-same-tree) |
 | [0110-balanced-binary-tree](https://github.com/Realsunnysagar/Solutions-of-LeetCode-and-GFG/tree/master/0110-balanced-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Realsunnysagar/Solutions-of-LeetCode-and-GFG/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Realsunnysagar/Solutions-of-LeetCode-and-GFG/tree/master/0144-binary-tree-preorder-traversal) |
