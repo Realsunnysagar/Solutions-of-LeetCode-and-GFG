@@ -169,6 +169,7 @@
 | [0045-jump-game-ii](https://github.com/Realsunnysagar/Solutions-of-LeetCode-and-GFG/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Realsunnysagar/Solutions-of-LeetCode-and-GFG/tree/master/0055-jump-game) |
 | [0085-maximal-rectangle](https://github.com/Realsunnysagar/Solutions-of-LeetCode-and-GFG/tree/master/0085-maximal-rectangle) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Realsunnysagar/Solutions-of-LeetCode-and-GFG/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0435-non-overlapping-intervals](https://github.com/Realsunnysagar/Solutions-of-LeetCode-and-GFG/tree/master/0435-non-overlapping-intervals) |
 | [0678-valid-parenthesis-string](https://github.com/Realsunnysagar/Solutions-of-LeetCode-and-GFG/tree/master/0678-valid-parenthesis-string) |
 | [0907-sum-of-subarray-minimums](https://github.com/Realsunnysagar/Solutions-of-LeetCode-and-GFG/tree/master/0907-sum-of-subarray-minimums) |
@@ -297,18 +298,21 @@
 |  |
 | ------- |
 | [0110-balanced-binary-tree](https://github.com/Realsunnysagar/Solutions-of-LeetCode-and-GFG/tree/master/0110-balanced-binary-tree) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Realsunnysagar/Solutions-of-LeetCode-and-GFG/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Realsunnysagar/Solutions-of-LeetCode-and-GFG/tree/master/0144-binary-tree-preorder-traversal) |
 | [0543-diameter-of-binary-tree](https://github.com/Realsunnysagar/Solutions-of-LeetCode-and-GFG/tree/master/0543-diameter-of-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0110-balanced-binary-tree](https://github.com/Realsunnysagar/Solutions-of-LeetCode-and-GFG/tree/master/0110-balanced-binary-tree) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Realsunnysagar/Solutions-of-LeetCode-and-GFG/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Realsunnysagar/Solutions-of-LeetCode-and-GFG/tree/master/0144-binary-tree-preorder-traversal) |
 | [0543-diameter-of-binary-tree](https://github.com/Realsunnysagar/Solutions-of-LeetCode-and-GFG/tree/master/0543-diameter-of-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0110-balanced-binary-tree](https://github.com/Realsunnysagar/Solutions-of-LeetCode-and-GFG/tree/master/0110-balanced-binary-tree) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Realsunnysagar/Solutions-of-LeetCode-and-GFG/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Realsunnysagar/Solutions-of-LeetCode-and-GFG/tree/master/0144-binary-tree-preorder-traversal) |
 | [0543-diameter-of-binary-tree](https://github.com/Realsunnysagar/Solutions-of-LeetCode-and-GFG/tree/master/0543-diameter-of-binary-tree) |
 <!---LeetCode Topics End-->
