@@ -135,6 +135,7 @@
 | [1248-count-number-of-nice-subarrays](https://github.com/Realsunnysagar/Solutions-of-LeetCode-and-GFG/tree/master/1248-count-number-of-nice-subarrays) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Realsunnysagar/Solutions-of-LeetCode-and-GFG/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1512-number-of-good-pairs](https://github.com/Realsunnysagar/Solutions-of-LeetCode-and-GFG/tree/master/1512-number-of-good-pairs) |
+| [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Realsunnysagar/Solutions-of-LeetCode-and-GFG/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 ## String
 |  |
 | ------- |
@@ -243,6 +244,7 @@
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Realsunnysagar/Solutions-of-LeetCode-and-GFG/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Realsunnysagar/Solutions-of-LeetCode-and-GFG/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0994-rotting-oranges](https://github.com/Realsunnysagar/Solutions-of-LeetCode-and-GFG/tree/master/0994-rotting-oranges) |
+| [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Realsunnysagar/Solutions-of-LeetCode-and-GFG/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 ## Greedy
 |  |
 | ------- |
@@ -319,6 +321,7 @@
 | [0662-maximum-width-of-binary-tree](https://github.com/Realsunnysagar/Solutions-of-LeetCode-and-GFG/tree/master/0662-maximum-width-of-binary-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Realsunnysagar/Solutions-of-LeetCode-and-GFG/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Realsunnysagar/Solutions-of-LeetCode-and-GFG/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Realsunnysagar/Solutions-of-LeetCode-and-GFG/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -333,6 +336,7 @@
 | [0662-maximum-width-of-binary-tree](https://github.com/Realsunnysagar/Solutions-of-LeetCode-and-GFG/tree/master/0662-maximum-width-of-binary-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Realsunnysagar/Solutions-of-LeetCode-and-GFG/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Realsunnysagar/Solutions-of-LeetCode-and-GFG/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Realsunnysagar/Solutions-of-LeetCode-and-GFG/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 ## Binary Tree
 |  |
 | ------- |
@@ -348,4 +352,5 @@
 | [0662-maximum-width-of-binary-tree](https://github.com/Realsunnysagar/Solutions-of-LeetCode-and-GFG/tree/master/0662-maximum-width-of-binary-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Realsunnysagar/Solutions-of-LeetCode-and-GFG/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Realsunnysagar/Solutions-of-LeetCode-and-GFG/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Realsunnysagar/Solutions-of-LeetCode-and-GFG/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 <!---LeetCode Topics End-->
