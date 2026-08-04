@@ -65,6 +65,7 @@
 | [0032-longest-valid-parentheses](https://github.com/Realsunnysagar/Solutions-of-LeetCode-and-GFG/tree/master/0032-longest-valid-parentheses) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Realsunnysagar/Solutions-of-LeetCode-and-GFG/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/Realsunnysagar/Solutions-of-LeetCode-and-GFG/tree/master/0085-maximal-rectangle) |
+| [0094-binary-tree-inorder-traversal](https://github.com/Realsunnysagar/Solutions-of-LeetCode-and-GFG/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Realsunnysagar/Solutions-of-LeetCode-and-GFG/tree/master/0144-binary-tree-preorder-traversal) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Realsunnysagar/Solutions-of-LeetCode-and-GFG/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/Realsunnysagar/Solutions-of-LeetCode-and-GFG/tree/master/0155-min-stack) |
@@ -317,6 +318,7 @@
 ## Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Realsunnysagar/Solutions-of-LeetCode-and-GFG/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/Realsunnysagar/Solutions-of-LeetCode-and-GFG/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Realsunnysagar/Solutions-of-LeetCode-and-GFG/tree/master/0101-symmetric-tree) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Realsunnysagar/Solutions-of-LeetCode-and-GFG/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
@@ -336,6 +338,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Realsunnysagar/Solutions-of-LeetCode-and-GFG/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/Realsunnysagar/Solutions-of-LeetCode-and-GFG/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Realsunnysagar/Solutions-of-LeetCode-and-GFG/tree/master/0101-symmetric-tree) |
 | [0110-balanced-binary-tree](https://github.com/Realsunnysagar/Solutions-of-LeetCode-and-GFG/tree/master/0110-balanced-binary-tree) |
@@ -352,6 +355,7 @@
 ## Binary Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Realsunnysagar/Solutions-of-LeetCode-and-GFG/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/Realsunnysagar/Solutions-of-LeetCode-and-GFG/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Realsunnysagar/Solutions-of-LeetCode-and-GFG/tree/master/0101-symmetric-tree) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Realsunnysagar/Solutions-of-LeetCode-and-GFG/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
