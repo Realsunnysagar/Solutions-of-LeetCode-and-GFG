@@ -146,6 +146,7 @@
 | [0022-generate-parentheses](https://github.com/Realsunnysagar/Solutions-of-LeetCode-and-GFG/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Realsunnysagar/Solutions-of-LeetCode-and-GFG/tree/master/0032-longest-valid-parentheses) |
 | [0076-minimum-window-substring](https://github.com/Realsunnysagar/Solutions-of-LeetCode-and-GFG/tree/master/0076-minimum-window-substring) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/Realsunnysagar/Solutions-of-LeetCode-and-GFG/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0387-first-unique-character-in-a-string](https://github.com/Realsunnysagar/Solutions-of-LeetCode-and-GFG/tree/master/0387-first-unique-character-in-a-string) |
 | [0402-remove-k-digits](https://github.com/Realsunnysagar/Solutions-of-LeetCode-and-GFG/tree/master/0402-remove-k-digits) |
 | [0424-longest-repeating-character-replacement](https://github.com/Realsunnysagar/Solutions-of-LeetCode-and-GFG/tree/master/0424-longest-repeating-character-replacement) |
@@ -236,6 +237,7 @@
 | [0155-min-stack](https://github.com/Realsunnysagar/Solutions-of-LeetCode-and-GFG/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/Realsunnysagar/Solutions-of-LeetCode-and-GFG/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Realsunnysagar/Solutions-of-LeetCode-and-GFG/tree/master/0232-implement-queue-using-stacks) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/Realsunnysagar/Solutions-of-LeetCode-and-GFG/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0901-online-stock-span](https://github.com/Realsunnysagar/Solutions-of-LeetCode-and-GFG/tree/master/0901-online-stock-span) |
 ## Breadth-First Search
 |  |
@@ -244,6 +246,7 @@
 | [0101-symmetric-tree](https://github.com/Realsunnysagar/Solutions-of-LeetCode-and-GFG/tree/master/0101-symmetric-tree) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Realsunnysagar/Solutions-of-LeetCode-and-GFG/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/Realsunnysagar/Solutions-of-LeetCode-and-GFG/tree/master/0199-binary-tree-right-side-view) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/Realsunnysagar/Solutions-of-LeetCode-and-GFG/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Realsunnysagar/Solutions-of-LeetCode-and-GFG/tree/master/0662-maximum-width-of-binary-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Realsunnysagar/Solutions-of-LeetCode-and-GFG/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Realsunnysagar/Solutions-of-LeetCode-and-GFG/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
@@ -324,6 +327,7 @@
 | [0199-binary-tree-right-side-view](https://github.com/Realsunnysagar/Solutions-of-LeetCode-and-GFG/tree/master/0199-binary-tree-right-side-view) |
 | [0222-count-complete-tree-nodes](https://github.com/Realsunnysagar/Solutions-of-LeetCode-and-GFG/tree/master/0222-count-complete-tree-nodes) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Realsunnysagar/Solutions-of-LeetCode-and-GFG/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/Realsunnysagar/Solutions-of-LeetCode-and-GFG/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Realsunnysagar/Solutions-of-LeetCode-and-GFG/tree/master/0543-diameter-of-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Realsunnysagar/Solutions-of-LeetCode-and-GFG/tree/master/0662-maximum-width-of-binary-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Realsunnysagar/Solutions-of-LeetCode-and-GFG/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
@@ -339,6 +343,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/Realsunnysagar/Solutions-of-LeetCode-and-GFG/tree/master/0144-binary-tree-preorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/Realsunnysagar/Solutions-of-LeetCode-and-GFG/tree/master/0199-binary-tree-right-side-view) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Realsunnysagar/Solutions-of-LeetCode-and-GFG/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/Realsunnysagar/Solutions-of-LeetCode-and-GFG/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Realsunnysagar/Solutions-of-LeetCode-and-GFG/tree/master/0543-diameter-of-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Realsunnysagar/Solutions-of-LeetCode-and-GFG/tree/master/0662-maximum-width-of-binary-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Realsunnysagar/Solutions-of-LeetCode-and-GFG/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
@@ -357,6 +362,7 @@
 | [0199-binary-tree-right-side-view](https://github.com/Realsunnysagar/Solutions-of-LeetCode-and-GFG/tree/master/0199-binary-tree-right-side-view) |
 | [0222-count-complete-tree-nodes](https://github.com/Realsunnysagar/Solutions-of-LeetCode-and-GFG/tree/master/0222-count-complete-tree-nodes) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Realsunnysagar/Solutions-of-LeetCode-and-GFG/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/Realsunnysagar/Solutions-of-LeetCode-and-GFG/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Realsunnysagar/Solutions-of-LeetCode-and-GFG/tree/master/0543-diameter-of-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Realsunnysagar/Solutions-of-LeetCode-and-GFG/tree/master/0662-maximum-width-of-binary-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Realsunnysagar/Solutions-of-LeetCode-and-GFG/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
