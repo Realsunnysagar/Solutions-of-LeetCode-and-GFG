@@ -61,6 +61,7 @@
 | [2104-sum-of-subarray-ranges](https://github.com/Realsunnysagar/Solutions-of-LeetCode-and-GFG/tree/master/2104-sum-of-subarray-ranges) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Realsunnysagar/Solutions-of-LeetCode-and-GFG/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Realsunnysagar/Solutions-of-LeetCode-and-GFG/tree/master/2161-partition-array-according-to-given-pivot) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Realsunnysagar/Solutions-of-LeetCode-and-GFG/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Stack
 |  |
 | ------- |
@@ -147,6 +148,7 @@
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Realsunnysagar/Solutions-of-LeetCode-and-GFG/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1512-number-of-good-pairs](https://github.com/Realsunnysagar/Solutions-of-LeetCode-and-GFG/tree/master/1512-number-of-good-pairs) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Realsunnysagar/Solutions-of-LeetCode-and-GFG/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Realsunnysagar/Solutions-of-LeetCode-and-GFG/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## String
 |  |
 | ------- |
@@ -309,6 +311,7 @@
 | [0922-sort-array-by-parity-ii](https://github.com/Realsunnysagar/Solutions-of-LeetCode-and-GFG/tree/master/0922-sort-array-by-parity-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/Realsunnysagar/Solutions-of-LeetCode-and-GFG/tree/master/0977-squares-of-a-sorted-array) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Realsunnysagar/Solutions-of-LeetCode-and-GFG/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Realsunnysagar/Solutions-of-LeetCode-and-GFG/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Data Stream
 |  |
 | ------- |
