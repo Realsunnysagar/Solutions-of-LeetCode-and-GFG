@@ -443,4 +443,8 @@
 |  |
 | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/Realsunnysagar/Solutions-of-LeetCode-and-GFG/tree/master/0173-binary-search-tree-iterator) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0229-majority-element-ii](https://github.com/Realsunnysagar/Solutions-of-LeetCode-and-GFG/tree/master/0229-majority-element-ii) |
 <!---LeetCode Topics End-->
