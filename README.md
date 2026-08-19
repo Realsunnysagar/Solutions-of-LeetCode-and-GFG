@@ -49,6 +49,7 @@
 | [0994-rotting-oranges](https://github.com/Realsunnysagar/Solutions-of-LeetCode-and-GFG/tree/master/0994-rotting-oranges) |
 | [1004-max-consecutive-ones-iii](https://github.com/Realsunnysagar/Solutions-of-LeetCode-and-GFG/tree/master/1004-max-consecutive-ones-iii) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Realsunnysagar/Solutions-of-LeetCode-and-GFG/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+| [1020-number-of-enclaves](https://github.com/Realsunnysagar/Solutions-of-LeetCode-and-GFG/tree/master/1020-number-of-enclaves) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Realsunnysagar/Solutions-of-LeetCode-and-GFG/tree/master/1248-count-number-of-nice-subarrays) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/Realsunnysagar/Solutions-of-LeetCode-and-GFG/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Realsunnysagar/Solutions-of-LeetCode-and-GFG/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
@@ -121,6 +122,7 @@
 | [0542-01-matrix](https://github.com/Realsunnysagar/Solutions-of-LeetCode-and-GFG/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/Realsunnysagar/Solutions-of-LeetCode-and-GFG/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/Realsunnysagar/Solutions-of-LeetCode-and-GFG/tree/master/0994-rotting-oranges) |
+| [1020-number-of-enclaves](https://github.com/Realsunnysagar/Solutions-of-LeetCode-and-GFG/tree/master/1020-number-of-enclaves) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -277,6 +279,7 @@
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Realsunnysagar/Solutions-of-LeetCode-and-GFG/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Realsunnysagar/Solutions-of-LeetCode-and-GFG/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0994-rotting-oranges](https://github.com/Realsunnysagar/Solutions-of-LeetCode-and-GFG/tree/master/0994-rotting-oranges) |
+| [1020-number-of-enclaves](https://github.com/Realsunnysagar/Solutions-of-LeetCode-and-GFG/tree/master/1020-number-of-enclaves) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Realsunnysagar/Solutions-of-LeetCode-and-GFG/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 ## Greedy
 |  |
@@ -398,6 +401,7 @@
 | [0733-flood-fill](https://github.com/Realsunnysagar/Solutions-of-LeetCode-and-GFG/tree/master/0733-flood-fill) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Realsunnysagar/Solutions-of-LeetCode-and-GFG/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Realsunnysagar/Solutions-of-LeetCode-and-GFG/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [1020-number-of-enclaves](https://github.com/Realsunnysagar/Solutions-of-LeetCode-and-GFG/tree/master/1020-number-of-enclaves) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Realsunnysagar/Solutions-of-LeetCode-and-GFG/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 ## Binary Tree
 |  |
@@ -468,6 +472,7 @@
 | ------- |
 | [0130-surrounded-regions](https://github.com/Realsunnysagar/Solutions-of-LeetCode-and-GFG/tree/master/0130-surrounded-regions) |
 | [0547-number-of-provinces](https://github.com/Realsunnysagar/Solutions-of-LeetCode-and-GFG/tree/master/0547-number-of-provinces) |
+| [1020-number-of-enclaves](https://github.com/Realsunnysagar/Solutions-of-LeetCode-and-GFG/tree/master/1020-number-of-enclaves) |
 ## Graph Theory
 |  |
 | ------- |
