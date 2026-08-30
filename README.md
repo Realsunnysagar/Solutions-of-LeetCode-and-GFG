@@ -62,6 +62,7 @@
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/Realsunnysagar/Solutions-of-LeetCode-and-GFG/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [1920-build-array-from-permutation](https://github.com/Realsunnysagar/Solutions-of-LeetCode-and-GFG/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/Realsunnysagar/Solutions-of-LeetCode-and-GFG/tree/master/1929-concatenation-of-array) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/Realsunnysagar/Solutions-of-LeetCode-and-GFG/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2104-sum-of-subarray-ranges](https://github.com/Realsunnysagar/Solutions-of-LeetCode-and-GFG/tree/master/2104-sum-of-subarray-ranges) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Realsunnysagar/Solutions-of-LeetCode-and-GFG/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Realsunnysagar/Solutions-of-LeetCode-and-GFG/tree/master/2161-partition-array-according-to-given-pivot) |
@@ -297,6 +298,7 @@
 | [0605-can-place-flowers](https://github.com/Realsunnysagar/Solutions-of-LeetCode-and-GFG/tree/master/0605-can-place-flowers) |
 | [0678-valid-parenthesis-string](https://github.com/Realsunnysagar/Solutions-of-LeetCode-and-GFG/tree/master/0678-valid-parenthesis-string) |
 | [0860-lemonade-change](https://github.com/Realsunnysagar/Solutions-of-LeetCode-and-GFG/tree/master/0860-lemonade-change) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/Realsunnysagar/Solutions-of-LeetCode-and-GFG/tree/master/2091-removing-minimum-and-maximum-from-array) |
 ## Simulation
 |  |
 | ------- |
