@@ -139,6 +139,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/Realsunnysagar/Solutions-of-LeetCode-and-GFG/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/Realsunnysagar/Solutions-of-LeetCode-and-GFG/tree/master/0076-minimum-window-substring) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Realsunnysagar/Solutions-of-LeetCode-and-GFG/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0126-word-ladder-ii](https://github.com/Realsunnysagar/Solutions-of-LeetCode-and-GFG/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/Realsunnysagar/Solutions-of-LeetCode-and-GFG/tree/master/0127-word-ladder) |
 | [0169-majority-element](https://github.com/Realsunnysagar/Solutions-of-LeetCode-and-GFG/tree/master/0169-majority-element) |
 | [0219-contains-duplicate-ii](https://github.com/Realsunnysagar/Solutions-of-LeetCode-and-GFG/tree/master/0219-contains-duplicate-ii) |
@@ -166,6 +167,7 @@
 | [0022-generate-parentheses](https://github.com/Realsunnysagar/Solutions-of-LeetCode-and-GFG/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Realsunnysagar/Solutions-of-LeetCode-and-GFG/tree/master/0032-longest-valid-parentheses) |
 | [0076-minimum-window-substring](https://github.com/Realsunnysagar/Solutions-of-LeetCode-and-GFG/tree/master/0076-minimum-window-substring) |
+| [0126-word-ladder-ii](https://github.com/Realsunnysagar/Solutions-of-LeetCode-and-GFG/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/Realsunnysagar/Solutions-of-LeetCode-and-GFG/tree/master/0127-word-ladder) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Realsunnysagar/Solutions-of-LeetCode-and-GFG/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0387-first-unique-character-in-a-string](https://github.com/Realsunnysagar/Solutions-of-LeetCode-and-GFG/tree/master/0387-first-unique-character-in-a-string) |
@@ -209,6 +211,7 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Realsunnysagar/Solutions-of-LeetCode-and-GFG/tree/master/0022-generate-parentheses) |
+| [0126-word-ladder-ii](https://github.com/Realsunnysagar/Solutions-of-LeetCode-and-GFG/tree/master/0126-word-ladder-ii) |
 ## Recursion
 |  |
 | ------- |
@@ -271,6 +274,7 @@
 | [0100-same-tree](https://github.com/Realsunnysagar/Solutions-of-LeetCode-and-GFG/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Realsunnysagar/Solutions-of-LeetCode-and-GFG/tree/master/0101-symmetric-tree) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Realsunnysagar/Solutions-of-LeetCode-and-GFG/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
+| [0126-word-ladder-ii](https://github.com/Realsunnysagar/Solutions-of-LeetCode-and-GFG/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/Realsunnysagar/Solutions-of-LeetCode-and-GFG/tree/master/0127-word-ladder) |
 | [0130-surrounded-regions](https://github.com/Realsunnysagar/Solutions-of-LeetCode-and-GFG/tree/master/0130-surrounded-regions) |
 | [0199-binary-tree-right-side-view](https://github.com/Realsunnysagar/Solutions-of-LeetCode-and-GFG/tree/master/0199-binary-tree-right-side-view) |
@@ -536,5 +540,6 @@
 ## Bidirectional Search
 |  |
 | ------- |
+| [0126-word-ladder-ii](https://github.com/Realsunnysagar/Solutions-of-LeetCode-and-GFG/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/Realsunnysagar/Solutions-of-LeetCode-and-GFG/tree/master/0127-word-ladder) |
 <!---LeetCode Topics End-->
