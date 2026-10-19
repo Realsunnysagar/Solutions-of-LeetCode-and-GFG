@@ -67,6 +67,7 @@
 | [2149-rearrange-array-elements-by-sign](https://github.com/Realsunnysagar/Solutions-of-LeetCode-and-GFG/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Realsunnysagar/Solutions-of-LeetCode-and-GFG/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Realsunnysagar/Solutions-of-LeetCode-and-GFG/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [4061-minimum-queen-moves-to-reach-target](https://github.com/Realsunnysagar/Solutions-of-LeetCode-and-GFG/tree/master/4061-minimum-queen-moves-to-reach-target) |
 ## Stack
 |  |
 | ------- |
@@ -114,6 +115,7 @@
 | [0342-power-of-four](https://github.com/Realsunnysagar/Solutions-of-LeetCode-and-GFG/tree/master/0342-power-of-four) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Realsunnysagar/Solutions-of-LeetCode-and-GFG/tree/master/1248-count-number-of-nice-subarrays) |
 | [1512-number-of-good-pairs](https://github.com/Realsunnysagar/Solutions-of-LeetCode-and-GFG/tree/master/1512-number-of-good-pairs) |
+| [4061-minimum-queen-moves-to-reach-target](https://github.com/Realsunnysagar/Solutions-of-LeetCode-and-GFG/tree/master/4061-minimum-queen-moves-to-reach-target) |
 ## Matrix
 |  |
 | ------- |
